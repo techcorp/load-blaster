@@ -91,4 +91,4 @@ pip install -r requirements.txt
 Created by **Muhammad Anas (Technical Corp)**  
 Cybersecurity Expert & Ethical Hacker  
 
-**Subscribe Youtube Channel** Technical Corp[https://youtube.com/@technicalcorp]
+**Subscribe Youtube Channel** [Technical Corp](https://youtube.com/@technicalcorp)
